@@ -1,9 +1,10 @@
+<?php $name = "Chris" ?> 
 <html>
   
   <head></head>
   
    <body>
-    <H1> Name</H1>
+    <H1> <?php print "Halo $name" ?></H1>
   </body>
 
 </html>
